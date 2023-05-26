@@ -1,7 +1,3 @@
-print(10, end=' ')
-print(10.4)
-print(11, end=' ')
-print(11.4)
 print(25, end=' ')
 print(25.5, end=' ')
 print(24.8)
